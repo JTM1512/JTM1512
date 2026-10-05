@@ -13,9 +13,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+- 🎮 I'm a third-year Game Design and Development student in Johannesburg
+- 💻 I build games in Unreal Engine and Unity, in C++ and C#
+- 🔭 I'm currently working on NightLight, a tower defence game in Unreal
 - 🌱 I'm currently learning procedural generation and mobile app development
 - 🤝 I'm looking to collaborate on games in Unreal Engine and Unity
-- 💡 I'm looking for help with finding a junior game programming role
+- 👥 I'm happy on a team or building my own projects
+- 💬 Ask me about gameplay programming in Unreal Engine and Unity
+- 💡 I'm looking for a junior game programming role
+- 😄 Fun fact: I press Play before I read the error
 
 
 ## 🧠 My Focus Areas
