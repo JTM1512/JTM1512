@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Joshua%20Moonsamy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bachelor%20of%20Computer%20and%20Information%20Science%20in%20Game%20Design%20and%20Developmet%20student&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Joshua%20Moonsamy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bachelor%20of%20Computer%20and%20Information%20Science%20in%20Game%20Design%20and%20Development%20student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Press%20Play.%20Panic%20later." alt="Typing introduction" />
@@ -30,9 +30,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JTM1512&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="JTM1512's GitHub Stats" />
   </a>
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=JTM1512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Joshua Moonsamy's GitHub Trophies" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -40,6 +37,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
 
 </p>
