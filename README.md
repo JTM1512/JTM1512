@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Joshua%20Moonsamy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bachelor%20of%20Computer%20and%20Information%20Science%20in%20Game%20Design%20and%20Developmet%20student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Press%20Play.%20Panic%20later." alt="Typing introduction" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=JTM1512">
     <img src="https://komarev.com/ghpvc/?username=JTM1512&label=Profile%20views&color=00FFFF&style=flat-square" alt="JTM1512's profile views" />
   </a>
@@ -71,8 +75,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
