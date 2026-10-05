@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - 🎮 I'm a third-year Game Design and Development student in Johannesburg
-- 💻 I build games in Unreal Engine and Unity, in C++ and C#
+- 💻 I build games in Unreal Engine and Unity, in Blueprints and C#
 - 🔭 I'm currently working on NightLight, a tower defence game in Unreal
 - 🌱 I'm currently learning procedural generation and mobile app development
 - 🤝 I'm looking to collaborate on games in Unreal Engine and Unity
